@@ -7,7 +7,7 @@ if (temperature > 30) {
 } else {
     console.log("It's not too hot outside.");
 }
-## answare:
+## answare:It's not too hot outside
 
 
 
@@ -20,7 +20,7 @@ if (number % 2 === 0) {
 } else {
     console.log("The number is odd.");
 }
-## answare:
+## answare:The number is odd.
 
 
 
@@ -33,7 +33,7 @@ if (score >= 60) {
 } else {
     console.log("You failed the exam.");
 }
-## answare:
+## answare:You passed the exam!
 
 
 
@@ -48,7 +48,7 @@ if (value > 0) {
 } else {
     console.log("The number is zero.");
 }
-## answare:
+## answare:The number is negative.
 
 
 
@@ -61,7 +61,7 @@ if (age >= 18) {
 } else {
     console.log("You are not eligible to vote yet.");
 }
-## answare:
+## answare:You are not eligible to vote yet.
 
 
 
@@ -74,4 +74,4 @@ if (password.length >= 8) {
 } else {
     console.log("Password is too short.");
 }
-## answare:
+## answare:Password is valid. 
