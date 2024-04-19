@@ -1,33 +1,33 @@
-# write your answare in answare.
+:# write your answare in answare.
 
 ## Task 1:
 
 console.log(5 > 3);
-## Answare
+## Answare : true
 
 ## Task 2:
 console.log(10 === '10');
-## Answare
+## Answare: false
 
 ## Task 3:
 console.log('apple' < 'banana');
-## Answare
+## Answare: false
 
 ## Task 4:
 console.log(4 >= 4);
-## Answare
+## Answare: true
 
 ## Task 5:
 console.log(3 != '3');
-## Answare
+## Answare: false
 
 ## Task 6:
 console.log(5 !== '5');
-## Answare
+## Answare: false
 
 ## Task 7:
 console.log('cat' === 'cat');
-## Answare
+## Answare: true
 
 ## Task 8:
 console.log(10 <= 8);
@@ -35,8 +35,8 @@ console.log(10 <= 8);
 
 ## Task 9:
 console.log('dog' < 'doghouse');
-## Answare
+## Answare: false
 
 ## Task 10:
 console.log(7 == '7');
-## Answare
+## Answare: true
